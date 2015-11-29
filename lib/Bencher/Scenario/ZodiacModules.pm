@@ -22,8 +22,6 @@ our $scenario = {
             fcall_template => "Zodiac::Chinese::chinese_zodiac(2015,11)",
         },
     ],
-    datasets => [
-    ],
 };
 
 1;
