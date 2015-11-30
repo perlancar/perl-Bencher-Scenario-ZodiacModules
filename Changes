@@ -1,5 +1,13 @@
 Revision history for Bench-Scenario-ZodiacModules
 
+0.02    2015-11-30 (PERLANCAR)
+
+        - No functional changes.
+
+        - [build] Rebuild, benchmark tests now only run when EXTENDED_TESTING is
+          turned on.
+
+
 0.01    2015-11-29 (PERLANCAR)
 
         - First release.
