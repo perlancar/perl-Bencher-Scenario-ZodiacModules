@@ -8,6 +8,7 @@ use strict;
 use warnings;
 
 our $scenario = {
+    summary => 'Benchmark various zodiac modules',
     participants => [
         {
             fcall_template => "Zodiac::Tiny::zodiac_of('2015-11-29')",
@@ -25,8 +26,4 @@ our $scenario = {
 };
 
 1;
-# ABSTRACT: Benchmark various zodiac modules
-
-=head1 SYNOPSIS
-
- % bencher -m ZodiacModules [other options]...
+# ABSTRACT:
