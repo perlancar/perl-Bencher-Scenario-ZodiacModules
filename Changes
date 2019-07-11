@@ -1,4 +1,4 @@
-0.05    2017-01-25 (PERLANCAR)
+0.05    2017-01-25  Released-By: PERLANCAR
 
 	- No functional changes.
 
@@ -7,14 +7,14 @@
           type=x_benchmarks.
 
 
-0.04    2016-06-26 (PERLANCAR)
+0.04    2016-06-26  Released-By: PERLANCAR
 
         - No functional changes.
 
         - [build] Rebuild to show abstract.
 
 
-0.03    2016-01-05 (PERLANCAR)
+0.03    2016-01-05  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -22,7 +22,7 @@
           (0.03) which shows sample benchmark participants & results in POD.
 
 
-0.02    2015-11-30 (PERLANCAR)
+0.02    2015-11-30  Released-By: PERLANCAR
 
         - No functional changes.
 
@@ -30,6 +30,6 @@
           turned on.
 
 
-0.01    2015-11-29 (PERLANCAR)
+0.01    2015-11-29  Released-By: PERLANCAR
 
         - First release.
