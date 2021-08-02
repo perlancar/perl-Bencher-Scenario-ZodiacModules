@@ -2,3 +2,4 @@ Bencher-Scenario-ZodiacModules-*
 .build
 *~
 nytprof*
+.DS_Store
